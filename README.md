@@ -19,7 +19,9 @@
 <h3 align="left">
   Typescript, Styled componets, React-Native, React-Navigation.
 </h3>
-<blockquote class="imgur-embed-pub" lang="en" data-id="Rw4FWvK"><a href="https://imgur.com/Rw4FWvK">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+## Imagem do Projeto
+<a href="https://imgur.com/Rw4FWvK"><img src="https://i.imgur.com/Rw4FWvK.png" title="source: imgur.com" /></a>
 
 ## :rocket: Tecnologias
 
